@@ -6,3 +6,4 @@ requests
 polyline
 numpy
 pandas
+matplotlib
